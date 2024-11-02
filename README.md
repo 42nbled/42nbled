@@ -1,5 +1,5 @@
 <div align="center">
-Hello im Nicolas, Actually Student at 42 Paris <br />
+Hello I'm Nicolas, Actually Student at 42 Paris <br />
 <a href="#"><img src="https://42.fr/wp-content/uploads/2021/05/42-Final-sigle-seul.svg" width="42" /></a>
 </div>
 
