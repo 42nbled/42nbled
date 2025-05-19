@@ -37,10 +37,11 @@ This category includes projects geared toward obtaining an RNCP 7 title, focusin
 <tr><th>IA </th><th>Web </th></tr>
 <tr><td>
 
-|  Nom du projet                                                    | Note obtenu /100 |  Language used                                                                                          |
-|:-----------------------------------------------------------------:|:----------------:|:-------------------------------------------------------------------------------------------------------:|
-| [linear regression](https://github.com/42nbled/linear_regression) |        125       | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  |
-|              [dslr](https://github.com/42nbled/dslr)              |         ⌛       | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  |
+|  Nom du projet                                                        | Note obtenu /100 |  Language used                                                                                          |
+|:---------------------------------------------------------------------:|:----------------:|:-------------------------------------------------------------------------------------------------------:|
+|     [linear regression](https://github.com/42nbled/linear_regression) |        125       | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  |
+|                  [dslr](https://github.com/42nbled/dslr)              |        125       | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  |
+| [multilayer-perceptron]                                               |         ⌛       | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  |
 </div>
 
 </td><td>
