@@ -23,7 +23,7 @@ These projects were undertaken as part of the Common Core at **42**, covering fo
 |             [cub3D](https://github.com/42nbled/cub3d)             |        110       | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)                             |
 |         NetPractice                                               |        100       |                                                                                                                           |
 |       [Piscine C++](https://github.com/42nbled/cpp)               |        100       | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)                   |
-|            [ft_irc](https://github.com/Nanasmd/ft-irc)            |        125       | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)                   |
+|            [ft_irc](https://github.com/42nbled/ft_irc)            |        125       | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)                   |
 |           Inception                                               |        100       | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)              |
 |  [ft_transcendence](https://github.com/IcarioX3/ft_transcendence) |        110       | ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)              |
 </div>
